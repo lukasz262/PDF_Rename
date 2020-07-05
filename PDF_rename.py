@@ -1,4 +1,4 @@
-'''change PDF names to Etive standard (delete first 6 symbols)"'''
+'''change PDF names (delete first 6 symbols and delete 14 symbol)'''
 
 import os
 
